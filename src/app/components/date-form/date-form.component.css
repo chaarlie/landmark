@@ -1,0 +1,6 @@
+.date-form {
+  margin-right: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center
+}
